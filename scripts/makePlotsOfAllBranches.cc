@@ -4,7 +4,7 @@
 
     Usage : 
 
-    root -b -q 'makePlaotsOfAllBranches.cc("<pathToRootFile>","<nameOfTTreeInFile>","<prefixToThePicToSave>")"
+    root -b -q 'makePlotsOfAllBranches.cc("<pathToRootFile>","<nameOfTTreeInFile>","<prefixToThePicToSave>")"
 
     eg. : user@pc $ root -b -q 'makePlaotsOfAllBranches.cc("data/bmm5sample.root","Events","outputs/plots/test/") 
                 
